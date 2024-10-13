@@ -45,7 +45,7 @@ table,tr,th,td {
 
 
 #Captain{
-    background-image: url(../image/Chris_Evans.png);
+    background-image: url(./image/Chris_Evans.png);
  width: 80px;
  height: 80px;
  margin: 10px;
