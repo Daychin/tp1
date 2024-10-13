@@ -1,0 +1,155 @@
+
+body{
+ background: linear-gradient(red, blue);
+}
+
+table,tr,th,td {
+    margin: auto;
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 60%;
+    background-color: white;
+}
+
+.titre{
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+  
+}
+
+.text1{
+    list-style-type: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+        font-weight: bold;
+}
+
+.cover1{
+    background-color: white;
+}
+.cover2{
+    max-width: 500px;
+    max-height: 800px;
+    padding: 16px;
+    
+}
+.distribution{
+   background-color: red;
+   color: white; 
+   font-size: x-large;
+   font-family: Arial, Helvetica, sans-serif;
+   font-style: italic;
+   font-weight: bold;
+}
+
+
+#Captain{
+    background-image: url(/image/Chris_Evans.png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+
+#thor{
+    background-image: url(/image/Chris_Hemsworth.png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+#Hawkeye{
+    background-image: url(/image/Jeremy_Renner.png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+
+#Hulk{   
+ background-image: url(/image/Mark_Ruffalo.png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+
+#IronMan{
+    background-image: url(/image/Robert_Downey_Jr..png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+
+#Widow{
+    background-image: url(/image/Scarlett_Johansson.png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+
+#Loki{
+    background-image: url(/image/Tom_Hiddleston.png);
+ width: 80px;
+ height: 80px;
+ margin: 10px;
+ border-radius: 40px;
+ background-size: cover;
+ background-repeat: no-repeat;
+ display: inline-block;
+}
+
+.NomActeur{
+    list-style-type: none;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    width: 100%;
+    margin-right: 150px;
+}
+
+.role{
+    list-style-type: none;
+    font-size: medium;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    color:red
+}
+
+.text2{
+    font-size: 25px;
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.list1{
+    list-style-type: disc;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+}
+
